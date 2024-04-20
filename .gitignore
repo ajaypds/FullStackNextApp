@@ -3,9 +3,7 @@
 # dependencies
 /node_modules
 /.pnp
-/*.env
-.env
-/.env.sample
+/.env
 .pnp.js
 .yarn/install-state.gz
 
